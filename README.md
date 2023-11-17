@@ -10,6 +10,7 @@ The Candies Glow Beauty Boutique is a visionary project aimed at establishing a 
 ******
 
 ## SCREENSHOTS
+![Screenshot from 2023-11-17 18-51-43](https://github.com/eceechain/candies-beauty-shop/assets/144310680/5cac6c1f-a4a7-4891-a093-b62771b7c51d)
 
 ## LIVE LINK
 
