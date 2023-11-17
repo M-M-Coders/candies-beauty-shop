@@ -14,7 +14,7 @@ The Candies Glow Beauty Boutique is a visionary project aimed at establishing a 
 
 ## LIVE LINK
 
-To access the app, visit :
+To access the app, visit :https://candies-beauty-shop.vercel.app/
 
 
 
