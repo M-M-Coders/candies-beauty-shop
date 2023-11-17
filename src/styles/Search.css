@@ -1,0 +1,22 @@
+/* Search.css */
+
+.search-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  
+  .search-input {
+    padding: 12px; /* Increased padding for a smoother feel */
+    border: 1px solid #ccc;
+    border-radius: 25px; /* Increased border-radius for a smoother appearance */
+    width: 650px; /* Adjusted width for a longer search bar */
+    outline: none;
+    font-size: 16px; /* Increased font size for better readability */
+    transition: all 0.3s ease; /* Added smooth transition for a smoother effect */
+  }
+  
+  .search-input:focus {
+    border-color: #4a90e2; /* Change border color on focus for better visibility */
+  }
+  

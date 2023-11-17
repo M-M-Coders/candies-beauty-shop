@@ -1,0 +1,117 @@
+
+{
+  "beautyProducts": [
+     {
+       "id": 1,
+       "name": "Foundation",
+       "description": "Foundation is a cosmetic product used to apply a uniform base of makeup over the face. It is typically applied after cleansing and toning the skin.",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPf87LFJRv29zIhJdMXKMUkV_2HmazayLJg&usqp=CAU",
+       "price":"price:Ksh2,050"     
+      },
+     {
+       "id": 2,
+       "name": "Concealer",
+       "description": "Concealer is a cosmetic product used to cover up imperfections such as pimples, scars, or acne. It is typically applied after foundation and blended to achieve a natural look.",
+       "image": "https://hips.hearstapps.com/hmg-prod/images/concealers-index-1637257467.jpg",
+       "price":"price:Ksh4,400"
+     },
+     {
+       "id": 3,
+       "name": "Mascara",
+       "description": "Mascara is a cosmetic product used to lengthen and define the appearance of eyelashes. It is typically applied after eye shadow and before applying eyeliner.",
+       "image": "https://www.byrdie.com/thmb/g9dSeH8QEyneVWwQPLzmirCzYYg=/400x0/filters:no_upscale():max_bytes(150000):strip_icc()/cdn.cliqueinc.com__cache__posts__251533__best-high-end-mascaras-251533-1520447307941-main.700x0c-a30d121263034d11b4718d9858b612c2.jpg",
+       "price":"price:Ksh2,020"
+     },
+     {
+       "id": 4,
+       "name": "Eyeliner",
+       "description": "Eyeliner is a cosmetic product used to outline the contours of the eye. It is typically applied after concealer and mascara.",
+       "image": "https://m.media-amazon.com/images/I/51vfqWwU4RL._AC_UF1000,1000_QL80_.jpg",
+       "price":"price:Ksh2,820"
+     },
+     {
+       "id": 5,
+       "name": "Eyeshadow",
+       "description": "Eyeshadow is a cosmetic product used to apply color to the eye area. It is typically applied after eyeliner and blended to achieve a natural look.",
+       "image": "https://images-in.girlstyle.com/wp-content/uploads/2018/10/huda-pinterest.jpg?auto=format&w=1053",
+       "price":"price:Ksh3,520"
+     },
+     {
+       "id": 6,
+       "name": "Blush",
+       "description": "Blush is a cosmetic product used to apply color to the cheeks. It is typically applied after eyeshadow and blended to achieve a natural look.",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDB-AgYnlpCrsyN2Mt2bU4oH-AGhb8PJn0ol9zlUX&s",
+       "price":"price:Ksh4,324"
+     },
+     {
+       "id": 7,
+       "name": "Highlighter",
+       "description": "Highlighter is a cosmetic product used to add a touch of shimmer or color to specific areas of the face. It is typically applied after blush and eyeshadow.",
+       "image": "https://media.allure.com/photos/642ce4cd2467485eb2923688/1:1/w_2000,h_2000,c_limit/3-31-best-highlighters.jpg",
+       "price":"price:Ksh2,050"
+     },
+     {
+       "id": 8,
+       "name": "Lipstick",
+       "description": "Lipstick is a cosmetic product used to apply color to the lips. It is typically applied after moisturizing the lips and blending to achieve a natural look.",
+       "image": "https://netstorage-tuko.akamaized.net/images/76b89feaf8af15d4.jpg",
+       "price":"price:Ksh3,527"
+     },
+     {
+       "id": 9,
+       "name": "Lip gloss",
+       "description": "Lip gloss is a cosmetic product used to apply a sheer layer of color to the lips. It is typically applied after lipstick and blended to achieve a natural look.",
+       "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1670440116-screen-shot-2022-12-07-at-2-08-07-pm-1670440098.png?crop=1.00xw:0.727xh;0,0.133xh&resize=980:*",
+       "price":"price:Ksh2,320"
+     },
+     {
+       "id": 10,
+       "name": "Nail polish",
+       "description": "Nail polish is a cosmetic product used to apply color to the nails. It is typically applied after cleaning and filing the nails and allowed to dry.",
+       "image": "https://hips.hearstapps.com/hmg-prod/images/non-toxic-nail-polish-1582817148.jpg?resize=640:*",
+       "price":"price:Ksh2,820"
+     },
+     {
+       "id": 11,
+       "name": "Hair spray",
+       "description": "Hair spray is a cosmetic product used to hold hair in place and add volume or texture. It is typically applied after styling the hair and allowed to dry.",
+       "image": "https://hips.hearstapps.com/hmg-prod/images/hbz-best-hairspray-00-index-1493312581.jpg",
+       "price":"price:Ksh2,520"
+     },
+     {
+       "id": 12,
+       "name": "Hair gel",
+       "description": "Hair gel is a cosmetic product used to hold hair in place and add volume or texture. It is typically applied after hair spray and allowed to dry.",
+       "image": "https://c-ec.niceshops.com/upload/image/product/large/default/unique-beauty-hair-styling-gel-150-ml-1412694-en.jpg",
+       "price":"price:Ksh2,820"
+     },
+     {
+       "id": 13,
+       "name": "Hair serum",
+       "description": "Hair serum is a cosmetic product used to nourish and repair damaged hair. It is typically applied after shampooing and conditioning the hair and allowed to dry.",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsA29_ysuOS1-Xchyvq4pB-QJKqhUDraexNvdke9_gZg&s",
+       "price":"price:Ksh3,500"
+     },
+     {
+       "id": 14,
+       "name": "Moisturizer",
+       "description": "Moisturizer is a cosmetic product used to nourish and hydrate the skin. It is typically applied after cleansing and toning the skin.",
+       "image": "https://media.allure.com/photos/64ee2e8970fdd7d8de68cf95/3:2/w_3000,h_2000,c_limit/luxury_moisturizers_002.jpg",
+       "price":"price:6,200"
+     },
+     {
+       "id": 15,
+       "name": "Exfoliator",
+       "description": "Exfoliator is a cosmetic product used to remove dead skin cells and promote a healthy, glowing complexion. It is typically applied after cleansing and toning the skin.",
+       "image": "https://www.lindsaysilberman.com/wp-content/uploads/2022/09/best-luxury-skincare-brands.jpg",
+       "price":"price:7,320"
+     },
+     {
+       "id": 16,
+       "name": "Toner",
+       "description": "Toner is a cosmetic product used to balance the skin tone and reduce redness or irritation. It is typically applied after cleansing the skin and before applying moisturizer.",
+       "image": "https://www.byrdie.com/thmb/PdMeQjbGQa6_MMZtj8XskEIrLCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/byr-primary-toner-jthompson-0342-d44a5a01186b448fafeeb3472841177f.jpg",
+       "price":"price:9,200"
+     }
+  ]
+ }

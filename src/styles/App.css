@@ -1,0 +1,23 @@
+/* App.css */
+
+.app {
+  text-align: center;
+}
+
+.header {
+  background-color: #ff66b2; /* Catchy color for the header background */
+  color: #fff; /* White text color for the header */
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  margin: 0;
+  padding-left: 100px;
+  margin-right: auto;
+}
+
+/* Additional styles for a catchy and attractive header can be added here */

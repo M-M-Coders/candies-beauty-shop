@@ -1,0 +1,58 @@
+/* OurTeam.css */
+
+.our-team-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff; /* Set the background color of the entire page */
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .team-members {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .team-member {
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .team-member:hover {
+    transform: scale(1.05); /* Add a scale effect on hover */
+  }
+  
+  .team-member-image {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  /* Add hover effect to team member description */
+  .team-member:hover p {
+    color: #ff70a6;
+    font-weight: bold;
+  }
+  

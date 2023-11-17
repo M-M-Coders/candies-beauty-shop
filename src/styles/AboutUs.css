@@ -1,0 +1,20 @@
+/* AboutUs.css */
+
+.about-us-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff; /* Set the background color of the entire page */
+  }
+  
+  .about-us-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-us-content p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  

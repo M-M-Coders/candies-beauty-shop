@@ -1,0 +1,64 @@
+/* NavBar.css */
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(45deg, #ff99cc, #ffccff);
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ff66b2; /* Catchy color for the navbar */
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-bottom: 2px solid #ff3385; /* Pinkish border for separation */
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #fff; /* White text color for regular links */
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out; /* Smooth transitions */
+  }
+  
+  .nav-link:hover {
+    background-color: #ff3385; /* Darker background color on hover */
+    color: #fff; /* White text color on hover */
+  }
+  
+  .dropdown {
+    position: relative;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #ff66b2; /* Catchy color for the dropdown */
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  
+  /* Updated: Display dropdown content on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown-content a {
+    color: #fff; /* White text color for dropdown links */
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out; /* Smooth transitions */
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #ff3385; /* Darker background color on hover */
+    color: #fff; /* White text color on hover */
+  }
+  

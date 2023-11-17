@@ -1,0 +1,112 @@
+/* Home.css */
+  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lobster&family=PT+Sans+Narrow&family=Prata&family=Roboto:wght@100;400&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.home-container {
+    text-align: center;
+    height: 100vh;
+    padding: 20px;
+    background-color: #ffffff; /* Set the background color of the entire page */
+  }
+  
+  .welcome-section {
+    margin-bottom: 10px;
+
+  }
+  
+  .welcome-section h1 {
+    font-size: 36px;
+    color: #333;
+    font-family: 'Great Vibes', cursive;
+    letter-spacing: 12px;
+
+
+  }
+  
+  .welcome-section p {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.9;
+    font-family: 'Playfair Display', serif;
+
+  }
+  
+  .image-section {
+    margin: 0 auto;
+    border-radius: 15px;
+  }
+  
+  .beauty-shop-image {
+    width: 70%;
+    height: auto;
+    align-items: center;
+    border-radius: 15px;
+    justify-content: center;
+    object-fit: cover; /* Make the image cover the entire container */
+  }
+  .cta-section {
+    margin-top: 30px;
+  }
+  
+  .cta-section p {
+    font-size: 20px;
+    color: #555;
+    font-family: 'Georgia', serif;
+  }
+  
+  .explore-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #ff70a6;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  .explore-button:hover {
+    background-color: #ff4d80;
+  }
+  .featured-products {
+    margin-top: 30px;
+    width: 100%;
+    background-color: #ffffff; /* Set the background color to match the entire page */
+    padding: 60px; /* Add padding to match the overall styling */
+  }
+  
+  .products {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .card {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 0 10px;
+    box-sizing: border-box;
+  }
+  
+  .card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .card h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  /* Add hover effect to the card */
+  .card:hover {
+    transform: scale(1.05);
+  }
