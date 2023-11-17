@@ -17,7 +17,7 @@ function OurTeam() {
           <h3>John Doe</h3>
           <p>Founder & CEO</p>
           <p>
-            John is the visionary leader behind [Your Beauty Shop Name]. With a passion for beauty and a keen business acumen, he has steered the ship towards becoming a trusted name in the industry.
+            John is the visionary leader behind [Candies Beauty Shop] With a passion for beauty and a keen business acumen, he has steered the ship towards becoming a trusted name in the industry.
           </p>
         </div>
         <div className="team-member">

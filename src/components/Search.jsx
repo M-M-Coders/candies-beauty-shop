@@ -3,14 +3,18 @@
 import React from 'react';
 import '../styles/Search.css';
 
+function Search({ onSearch }) {
+  const handleChange = (event) => {
+    onSearch(event.target.value);
+  };
 
-function Search() {
   return (
     <div className="search-container">
       <input
         type="text"
-        placeholder="Search"
         className="search-input"
+        placeholder="Search"
+        onChange={handleChange}
       />
     </div>
   );

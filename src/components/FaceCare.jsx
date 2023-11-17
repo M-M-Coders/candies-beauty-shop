@@ -20,6 +20,11 @@ function FaceCare() {
       });
   }, []);
 
+  const handleAddToCart = (productName) => {
+    alert(`Added ${productName} to Cart!`);
+    // You can add more logic here for handling the cart state or making an API call to add the product to the cart.
+  };
+
   return (
     <div className='face-care-container'>
       <h1>Face Care Products</h1>
@@ -30,7 +35,7 @@ function FaceCare() {
             <h3>{product.name}</h3>
             <p>{product.description}</p>
             <p>{product.price}</p>
-            <button>Add to Cart</button>
+            <button onClick={() => handleAddToCart(product.name)}>Add to Cart</button>
           </div>
         ))}
       </div>

@@ -10,7 +10,7 @@
     padding: 12px; /* Increased padding for a smoother feel */
     border: 1px solid #ccc;
     border-radius: 25px; /* Increased border-radius for a smoother appearance */
-    width: 650px; /* Adjusted width for a longer search bar */
+    width: 550px; /* Adjusted width for a longer search bar */
     outline: none;
     font-size: 16px; /* Increased font size for better readability */
     transition: all 0.3s ease; /* Added smooth transition for a smoother effect */
