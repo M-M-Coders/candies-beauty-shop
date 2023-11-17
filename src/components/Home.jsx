@@ -17,7 +17,7 @@ function Home() {
   return (
     <div className="home-container">
       <div className="welcome-section">
-        <h1>Welcome to Our Beautiful Beauty Shop</h1>
+        <h1>Welcome to Candies Beautiful Beauty Shop</h1>
         <p>
           Discover a world of beauty and elegance at our exquisite beauty shop.
           We believe in making every customer feel extraordinary by offering a
