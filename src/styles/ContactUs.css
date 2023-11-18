@@ -35,6 +35,9 @@
     align-items: center;
     max-width: 300px; /* Set max-width for the form */
     margin: 0 auto; /* Center the form */
+    background-color: #f5f5f5; /* Set the background color for the form */
+    padding: 20px; /* Adjust padding as needed */
+    border-radius: 10px; /* Adjust border-radius as needed */
   }
   
   label {
